@@ -39,6 +39,5 @@
 ![](tables/fatores_ml.png)
 
 ---
----
 
 *Modelos utilizados: Machine Learning e Regressão Linear.*
